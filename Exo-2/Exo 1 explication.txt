@@ -1,8 +1,0 @@
-la premiere fonction Surprise prenant en parametre la variable "s" de type string -> chaine de caractere et renvoyant un bool --> booléen true false ,
-verifie la conditon de si la chaine de caractere s est vide soit len(s) = longeur de s < 1 et si cette condition est verifié alors la fonction s'arette et retourn false .
-sinon elle retourn la deuxieme fonction surprise_annexe(s[0]) prenant en parametre le premier caractere de la chaine s de type string
-
-la deuxieme fonction surprise_annexe prenant en parametre a un entier de type byte et renvoyant un booléen false , true .
-la fonction retoure directement (a <= 'z' && a >= 'a') ou car || equivaut a "OU" et retourne (a <= 'Z' && a >= 'A')
-
-en genrale ces fonctions retourne une chaine de caractere changer , a l'envers
