@@ -1,0 +1,3 @@
+ecrivez deux fonctions permettant de retourner si le premier caractere de la chaine s est pareil que le derniers carctere de la chaine s 
+la premiere fonction prend en parametre une chaine de caracetre s et test si la chaine de caractere est vide avant de retourner la deuxieme fonction 
+la deuxieme fonction prend en parametre la variable a de type Byte et renvoie un bool et doit retourner true si le premier caractere de la chaine s est pareil que le derniers carctere de la chaine s false sinon
