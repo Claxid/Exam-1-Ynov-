@@ -1,3 +1,0 @@
-ecrivez deux fonctions permettant de retourner une chaine de caratere a l'envers (exemple a = z)
-la premiere fonction prend en parametre une chaine de caracetre s et test si la chaine de caractere est vide avant de retourner la deuxieme fonction 
-la deuxieme fonction prend en parametre la variable a de type Byte et renvoie un bool et doit retourner la chaine de caracetre a l'envers
